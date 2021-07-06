@@ -309,7 +309,7 @@ class Book
   end
 
 end
-```
+
 
 And another run of the tests gives us this:
 
